@@ -181,7 +181,4 @@ Networking uses **decimal values**:
 ✔ Built solid networking foundation
 
 ---
-
-📌 **Next:** Day 2 – TCP vs UDP & Packet Flow
-
 > *Strong networking knowledge = strong cybersecurity mindset.*
